@@ -1,6 +1,5 @@
 ﻿#SingleInstance force
 
-; Function must be defined before usage
 hMouseIsOver(WinTitle) {
     MouseGetPos,,, Win
     return WinExist(WinTitle . " ahk_id " . Win)
