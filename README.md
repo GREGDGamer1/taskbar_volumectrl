@@ -10,3 +10,7 @@ middle click to mute volume
 press xmouse1 to |<<
 
 press xmouse2 to >>|
+
+# download
+
+[download](https://github.com/GREGDGamer1/taskbar_volumectrl/releases/latest/download/taskbar_volumectrl.exe)
