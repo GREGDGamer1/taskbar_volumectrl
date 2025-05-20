@@ -1,5 +1,5 @@
 # taskbar_volumectrl - how to use
-### move your mouse to the taskbar then
+first move your mouse to the taskbar then
 
 scroll up to make volume go up
 
